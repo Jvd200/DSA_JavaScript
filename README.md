@@ -11,8 +11,8 @@ Tracking my DSA learning journey — 30 days of concepts, problems, and progress
 
 | Day | Topic | Problems Solved | Link |
 |-----|--------|------------------|------|
-| ✅ 1 | Big-O & Basics | 1 | [Day_1](./Day_1/) |
-| ✅ 2 | Arrays | 3 | [Day 2](./Day02/) |
+| ✅ 1 | Big-O & Basics | Day_1 | [Day_1](./Day_1_String/) |
+| ✅ 2 | Arrays | 3 | [Day 2](./Day_2_Array/) |
 | ✅ 3 | Two Pointers | 3 | [Day 3](./Day03/) |
 | ✅ 4 | Searching | 3 | [Day 4](./Day04/) |
 | ... | ... | ... | ... |
@@ -20,8 +20,8 @@ Tracking my DSA learning journey — 30 days of concepts, problems, and progress
 ---
 
 ## 🏆 Stats
-- **Total Days Completed:** 1/30  
-- **Total Problems Solved:** 1  
+- **Total Days Completed:** 4/30  
+- **Total Problems Solved:** 5  
 - **Language:** JavaScript  
 - **Platform:** [LeetCode](https://leetcode.com/)
 
